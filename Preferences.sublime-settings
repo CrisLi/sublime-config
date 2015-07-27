@@ -1,10 +1,20 @@
 {
+<<<<<<< HEAD
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"draw_white_space": "all",
 	"font_size": 16,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+=======
+	"color_scheme": "Packages/Color Scheme - Default/IDLE.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 14,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+>>>>>>> f1684487380f32877773127e2a0dad975ae524ad
 	],
 	"remember_open_files": false,
 	"tab_size": 2,
